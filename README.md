@@ -14,7 +14,7 @@ The job characteristics used to predict its salary are:
 - **Company size**: the number of people working for the company, divided into three categories: less than 50, between 50 and 250, and more than 250. 
 
 ## How to run
-- Download this repository running ```git clone url``` on a console
+- Download this repository running ```git clone https://github.com/AAcostac/intelsys_project1``` on a console
 - Move into the local copy of the repository
 - Run the command ```python ds_salaries.py```
 - You will be prompted to input the job characteristics used on the prediction, input valid values for all of them.
